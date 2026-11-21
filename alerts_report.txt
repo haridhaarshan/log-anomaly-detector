@@ -1,0 +1,5 @@
+ALERT REPORT (4 alerts)
+[HIGH] Brute force: 203.0.113.45 had 20 failed logins within 60 seconds
+[HIGH] Account spreading: rahul logged in from 6 different IPs: [198.51.100.24, 198.51.100.23, 198.51.100.22, 198.51.100.21, 198.51.100.20, 10.0.0.21]
+[MEDIUM] Odd-hour login: priya logged in successfully at 2026-11-20 03:27:45 from 10.0.0.10
+[MEDIUM] Statistical outlier: 203.0.113.45 made 20 attempts (average 4.4, z-score 3.70)
